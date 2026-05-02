@@ -7,8 +7,6 @@ The system encrypts digital images by applying **pixel value transformation and 
 
 The application also provides a **graphical user interface (GUI)** built with Tkinter, allowing users to easily select images, encrypt them, and restore them through decryption.
 
-This project was developed as part of the **Prodigy Infotech Cybersecurity Internship**, focusing on practical implementation of basic cryptographic techniques applied to image data.
-
 
 ## 🎯 Objectives
 
@@ -136,6 +134,6 @@ Potential improvements for this project include:
 * Secure key management mechanisms
 
 
-## 📜 License
+## 📜 Note
 
 This project is intended for **educational and research purposes** as part of a cybersecurity learning initiative.
